@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Moleculer.JS, React and Angular**
 
-- 💬 Ask me about **VueJS, Django, RESTful, JAVA, Spring, Ruby, NodeJS, Circle CI, Docker**
+- 💬 Ask me about **Python, VueJS, Django, RESTful, JAVA, Spring, Ruby, NodeJS, Circle CI, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
