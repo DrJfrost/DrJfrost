@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blockfi](https://blockfi.com/)
 
-- 🌱 I’m currently learning **Moleculer.JS, React and Angular**
+- 🌱 I’m currently learning **Redux, Futures trading and Blockchain**
 
 - 💬 Ask me about **Python, VueJS, Django, RESTful, JAVA, Spring, Ruby, NodeJS, Circle CI, Docker**
 
